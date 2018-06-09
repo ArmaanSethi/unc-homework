@@ -5,7 +5,7 @@ Official descriptions: http://catalog.unc.edu/courses/
 Comp 401 - Foundation of Programming: Java. OOP/MVC stuff.  
 Math 547 - Linear Algebra.  
 Musc 145 - Intro to Jazz: A survey of jazz music from its origins to the present.  
-<span style="color:blue">Math 564</span> - Mathematical Modeling in the Life Sciences: Python. Model validation and numerical simulations using ordinary, partial, stochastic, and delay differential equations. https://github.com/ArmaanSethi/Interactive-Genetic-Algorithm  
+[Math 564](#) - Mathematical Modeling in the Life Sciences: Python. Model validation and numerical simulations using ordinary, partial, stochastic, and delay differential equations. https://github.com/ArmaanSethi/Interactive-Genetic-Algorithm  
 Phys 118 - Calculus-based Mechanics and Relativity: Newton's laws; mechanical and potential energy; mechanical conservation laws; frame-dependence of physical laws; Einstein's Theory of Relativity.   
 
 Phys 119 - Calculus-based Electromagnetism and Quanta: electromagnetic waves; the particle-wave duality; fundamental principles and applications of quantum mechanics    
