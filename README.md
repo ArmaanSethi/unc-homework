@@ -28,6 +28,11 @@ Comp 590 - Special Topics: Data Compression. https://github.com/ArmaanSethi/Loss
 Comp 455 - Models of Languages and Computation: theory of computation.  
 [Comp 576](#) - Mathematics for Image Computing.  
 
+Phys 521 - Applications of Quantum Mechanics: Emphasizes atomic physics but includes topics from nuclear, solid state, and particle physics, such as energy levels, the periodic system, selection rules, and fundamentals of spectroscopy.  
+Phys 311 - Electromagnetism: Brief treatment of DC and AC circuit theory. Electrostatics: dielectrics, the magnetic field, magnetic materials. Maxwell's equations and their application to electromagnetic waves  
+Phys 358: Physical Modeling: Modeling of celestial dynamics, nuclear physics problems, electrostatics; Monte Carlo integration in particle and theoretical physics; data modeling for physics and astronomy; gravitation, electromagnetism, fluid dynamics and quantum mechanics  
+Comp 521 - Files and Databases: Placement of data on secondary storage. File organization. Database history, practice, major models, system structure and design.  
+Comp 222 - ACM Programming Competition Practice: Structured practice to develop and refine programming skills in preparation for the ACM programming competition.  
 
 
 
