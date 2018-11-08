@@ -26,7 +26,7 @@ Comp 781 - Robotics: kinematics, actuation, sensing, configuration spaces, contr
 Comp 590 - Special Topics: Data Compression. https://github.com/ArmaanSethi/Lossless-Data-Compression  
 [Comp 524](#) - Programming Language Concepts: Concepts of high-level programming and their realization in specific languages. Ruby, Haskell, Prolog, C, FORTRAN, GO, OCaml.  
 Comp 455 - Models of Languages and Computation: theory of computation.  
-[Comp 576](#) - Mathematics for Image Computing.  
+[Comp 576](#) - Mathematics for Image Computing: Mathematics relevant to image processing and analysis using real image computing objectives and provided by computer implementations.
 
 Phys 521 - Applications of Quantum Mechanics: Emphasizes atomic physics but includes topics from nuclear, solid state, and particle physics, such as energy levels, the periodic system, selection rules, and fundamentals of spectroscopy.  
 Phys 311 - Electromagnetism: Brief treatment of DC and AC circuit theory. Electrostatics: dielectrics, the magnetic field, magnetic materials. Maxwell's equations and their application to electromagnetic waves  
