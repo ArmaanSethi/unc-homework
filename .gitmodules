@@ -13,3 +13,6 @@
 [submodule "Comp521"]
 	path = Comp521
 	url = https://github.com/ArmaanSethi/Comp521.git
+[submodule "Phys358"]
+	path = Phys358
+	url = https://github.com/ArmaanSethi/Physical-Modeling.git
