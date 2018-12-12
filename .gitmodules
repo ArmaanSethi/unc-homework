@@ -7,3 +7,6 @@
 [submodule "Comp590-DataCompression"]
 	path = Comp590-DataCompression
 	url = https://github.com/ArmaanSethi/Lossless-Data-Compression.git
+[submodule "Phys331"]
+	path = Phys331
+	url = https://github.com/ArmaanSethi/Numerical-Techniques-in-Physics.git
