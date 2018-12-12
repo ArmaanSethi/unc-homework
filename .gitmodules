@@ -19,3 +19,6 @@
 [submodule "Phys358-FokkerPlanck"]
 	path = Phys358-FokkerPlanck
 	url = https://github.com/davisrbr/fokk-planck.git
+[submodule "Comp576"]
+	path = Comp576
+	url = https://github.com/ArmaanSethi/Mathematics-for-Image-Computing.git
