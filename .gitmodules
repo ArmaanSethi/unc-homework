@@ -1,3 +1,6 @@
 [submodule "Comp781"]
 	path = Comp781
 	url = https://github.com/ArmaanSethi/Hindsight-Experience-Replay-and-Hierarchical-Reinforcement-Learning.git
+[submodule "Math564"]
+	path = Math564
+	url = https://github.com/ArmaanSethi/Designing-Biomorphs-with-an-Interactive-Genetic-Algorithm
