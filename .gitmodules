@@ -4,3 +4,6 @@
 [submodule "Math564"]
 	path = Math564
 	url = https://github.com/ArmaanSethi/Designing-Biomorphs-with-an-Interactive-Genetic-Algorithm
+[submodule "Comp590-DataCompression"]
+	path = Comp590-DataCompression
+	url = https://github.com/ArmaanSethi/Lossless-Data-Compression.git
