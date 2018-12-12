@@ -28,3 +28,6 @@
 [submodule "Comp410"]
 	path = Comp410
 	url = https://github.com/ArmaanSethi/Comp410.git
+[submodule "Comp524"]
+	path = Comp524
+	url = https://github.com/ArmaanSethi/Comp524.git
