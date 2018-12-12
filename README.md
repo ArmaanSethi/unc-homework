@@ -1,8 +1,8 @@
 # unc-homework
-Backup of homework related code  
+Backup of homework related code - If the link doesn't work, it just means the repository is private for now, but the code is there.  
 Official descriptions: http://catalog.unc.edu/courses/  
 
-[Comp 401](#) - Foundation of Programming: Java. OOP/MVC stuff.  
+[Comp 401](#) - Foundation of Programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions.  
 Math 547 - Linear Algebra.  
 Musc 145 - Intro to Jazz: A survey of jazz music from its origins to the present.  
 [Math 564](#) - Mathematical Modeling in the Life Sciences: Python. Model validation and numerical simulations using ordinary, partial, stochastic, and delay differential equations. https://github.com/ArmaanSethi/Interactive-Genetic-Algorithm  
