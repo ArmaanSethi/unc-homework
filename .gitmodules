@@ -10,3 +10,6 @@
 [submodule "Phys331"]
 	path = Phys331
 	url = https://github.com/ArmaanSethi/Numerical-Techniques-in-Physics.git
+[submodule "Comp521"]
+	path = Comp521
+	url = https://github.com/ArmaanSethi/Comp521.git
