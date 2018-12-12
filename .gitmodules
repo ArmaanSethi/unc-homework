@@ -22,3 +22,6 @@
 [submodule "Comp576"]
 	path = Comp576
 	url = https://github.com/ArmaanSethi/Mathematics-for-Image-Computing.git
+[submodule "Comp401"]
+	path = Comp401
+	url = https://github.com/ArmaanSethi/Comp401.git
