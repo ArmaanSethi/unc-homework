@@ -18,7 +18,7 @@ Ling 101 - Introduction to Language: Phonetics, Phonology, Morphology, Syntax, S
 
 ### Spring 2017
 Comp 411 - Computer Organization: Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming.  
-Comp 550  Algorithms and Analysis: Formal specification and verification of programs.  
+Comp 550 - Algorithms and Analysis: Formal specification and verification of programs.  
 [Phys 331](https://github.com/ArmaanSethi/Numerical-Techniques-in-Physics/) - Numerical Techniques in Physics. https://github.com/ArmaanSethi/Numerical-Techniques-in-Physics  
 Phys 441 - Thermal Physics: Equilibrium statistical mechanics; the laws of thermodynamics.  
 Stor 435 - Probability: random variables; moments; binomial, Poisson, normal and related distributions; generating functions; sums and sequences of random variables.  
