@@ -42,6 +42,7 @@ Phys 521 - Applications of Quantum Mechanics: Emphasizes atomic physics but incl
 Phys 311 - Electromagnetism: Brief treatment of DC and AC circuit theory. Electrostatics: dielectrics, the magnetic field, magnetic materials. Maxwell's equations and their application to electromagnetic waves  
 [Phys 358](https://github.com/ArmaanSethi/Physical-Modeling/) - Physical Modeling: Modeling of celestial dynamics, nuclear physics problems, electrostatics; Monte Carlo integration in particle and theoretical physics; data modeling for physics and astronomy; gravitation, electromagnetism, fluid dynamics and quantum mechanics  
 [Comp 521](https://github.com/ArmaanSethi/Comp521/) - Files and Databases: Placement of data on secondary storage. File organization. Database history, practice, major models, system structure and design.  
+Busi 408 - Corporate Finance: Theoretical foundations of optimal financial policy. Problems and cases provide application of theory to financial decisions involving cash flow, capital structure, capital budgeting.  
 Comp 222 - ACM Programming Competition Practice: Structured practice to develop and refine programming skills in preparation for the ACM programming competition.  
 
 ## Fall 2019
