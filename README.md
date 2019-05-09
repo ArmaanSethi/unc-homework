@@ -12,8 +12,8 @@ Phys 118 - Calculus-based Mechanics and Relativity: Newton's laws; mechanical an
 ### Fall 2017
 Phys 119 - Calculus-based Electromagnetism and Quanta: electromagnetic waves; the particle-wave duality; fundamental principles and applications of quantum mechanics    
 [Comp 410](https://github.com/ArmaanSethi/Comp410/) - Data Structures: Java. lists, stacks, queues, trees, and graphs. Sorting, searching, hashing.  
-MATH 381 - Discrete Mathematics  
-Engl 105i - ...  
+Math 381 - Discrete Mathematics: Topics are from the foundations of mathematics: logic, set theory, relations and functions, induction, permutations and combinations, recurrence.  
+Engl 105i - English Composition and Rhetoric (Interdisciplinary)    
 Ling 101 - Introduction to Language: Phonetics, Phonology, Morphology, Syntax, Semantics.  
 
 ### Spring 2017
