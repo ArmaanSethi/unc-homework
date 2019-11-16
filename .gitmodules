@@ -31,3 +31,6 @@
 [submodule "Comp524"]
 	path = Comp524
 	url = https://github.com/ArmaanSethi/Comp524.git
+[submodule "Comp790-FlexibleVGAE"]
+	path = Comp790-FlexibleVGAE
+	url = https://github.com/ArmaanSethi/Flexible-Variational-Graph-Auto-Encoders.git
