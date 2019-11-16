@@ -37,3 +37,6 @@
 [submodule "Comp555-Bioalgorithms"]
 	path = Comp555-Bioalgorithms
 	url = https://github.com/ArmaanSethi/Bioalgorithms.git
+[submodule "Phys521-Quantum"]
+	path = Phys521-Quantum
+	url = https://github.com/ArmaanSethi/Quantum.git
