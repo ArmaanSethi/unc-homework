@@ -2,6 +2,8 @@
 Backup of homework related code - If the link doesn't work, it just means the repository is private for now, but the code is there.    
 Official descriptions: http://catalog.unc.edu/courses/  
 
+[Google Drive folder](https://drive.google.com/drive/u/0/folders/1by8qZk2o1dPMTgKIqRonV-ZGxbfbzfau) with non github resources (notes, essays, etc.)  
+
 ### Fall 2016
 [Comp 401](https://github.com/ArmaanSethi/Comp401/) - Foundation of Programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions.  
 Math 547 - Linear Algebra.  
